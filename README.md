@@ -1,6 +1,22 @@
 # Minecraft Bedrock Server
 
-[日本語版 README はこちら](https://github.com/TheRemote/MinecraftBedrockServer/blob/master/README_jp.md)
+###IMPORTANT###
+Edit begin by 0x233233:
+Outdated: [日本語版 README はこちら](https://github.com/TheRemote/MinecraftBedrockServer/blob/master/README_jp.md)
+
+The download URL for Minecraft changed so the nice scripts from James doesn't run anymore. M-Taylor40 has create a patch but it isn't merged, so what next?
+James does a so great job with the scripts and helps so many people that i want his work useable again.
+So i forked his project, patch the scripts and create a script to easy change the scripts for existing servers.
+This script can be changed by James when he comes back to change the scripts again to his repository so you can use them smoothly booth times.
+
+<h2>Quick Repository change Instructions</h2>
+To run the change type:<br>
+<pre>curl https://raw.githubusercontent.com/0x233233/MinecraftBedrockServer/master/ChangeRepo.sh | bash</pre>
+
+<h2>Quick Installation Instructions</h2>
+To run the installation type:<br>
+<pre>curl https://raw.githubusercontent.com/0x233233/MinecraftBedrockServer/master/SetupMinecraft.sh | bash</pre>
+Edit end by 0x233233:
 
 Sets up a Minecraft Bedrock dedicated server on Ubuntu / Debian with options for automatic updates, backups and running automatically at startup.<br>
 View installation instructions at: https://jamesachambers.com/minecraft-bedrock-edition-ubuntu-dedicated-server-guide/<br>

@@ -8,8 +8,10 @@
 # curl https://raw.githubusercontent.com/0x233233/MinecraftBedrockServer/master/SetupMinecraft.sh | bash
 #
 # GitHub Repository: https://github.com/0x233233/MinecraftBedrockServer
+# Forked from GitHub Repository: https://github.com/TheRemote/MinecraftBedrockServer
+# Thanks to M-Taylor40 for download url patch
 
-echo "Minecraft Bedrock Server installation script by James A. Chambers"
+echo "Minecraft Bedrock Server installation script original by James A. Chambers"
 echo "Latest version always at https://github.com/0x233233/MinecraftBedrockServer"
 echo "Don't forget to set up port forwarding on your router!  The default port is 19132"
 

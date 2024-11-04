@@ -2,7 +2,7 @@
 
 ###IMPORTANT###
 
-Edit by 0x233233 begin:
+<i>Edit by 0x233233 begin:</i>
 
 Outdated: [日本語版 README はこちら](https://github.com/TheRemote/MinecraftBedrockServer/blob/master/README_jp.md)
 
@@ -19,7 +19,7 @@ To run the change type:<br>
 To run the installation type:<br>
 <pre>curl https://raw.githubusercontent.com/0x233233/MinecraftBedrockServer/master/SetupMinecraft.sh | bash</pre>
 
-Edit by 0x233233 end:
+<i>Edit by 0x233233 end:</i>
 
 Sets up a Minecraft Bedrock dedicated server on Ubuntu / Debian with options for automatic updates, backups and running automatically at startup.<br>
 View installation instructions at: https://jamesachambers.com/minecraft-bedrock-edition-ubuntu-dedicated-server-guide/<br>
